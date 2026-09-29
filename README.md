@@ -1,5 +1,3 @@
-# Military Grade: TacticalHUD
-
 Standard Pomodoro apps are built for corporate office workers. They were not designed for the trenches of JEE preparation. They pause your timer when Chrome puts a 12-hour one-shot lecture tab to sleep. They treat a brutal PYQ problem the same as "buy groceries." They don't understand what it means to be buried under a massive backlog or be under immense pressure.
 
 Military Grade Timer is different. It is a high-octane, uncompromising execution environment built strictly for serious aspirants. It doesn’t just track time; it enforces discipline, protects your momentum, and keeps your eyes locked on the ultimate target.
