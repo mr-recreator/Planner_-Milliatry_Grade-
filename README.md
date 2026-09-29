@@ -1,4 +1,4 @@
-#Military Grade: TacticalHUD
+# Military Grade: TacticalHUD
 
 Standard Pomodoro apps are built for corporate office workers. They were not designed for the trenches of JEE preparation. They pause your timer when Chrome puts a 12-hour one-shot lecture tab to sleep. They treat a brutal PYQ problem the same as "buy groceries." They don't understand what it means to be buried under a massive backlog or be under immense pressure.
 
