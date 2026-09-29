@@ -128,6 +128,8 @@ The bottom of the screen acts as your HUD, constantly displaying your ultimate g
 Target: IIT Bombay CSE
 ```
   2.4.You can change it and in this to your target.
+
+If you encounter errors please dm me @ https://www.instagram.com/yarky44/
   
   2.5.After this find this code:
   ```tsx
